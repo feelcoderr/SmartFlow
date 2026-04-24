@@ -1,0 +1,6 @@
+{
+  "name": "SmartFlow - AI Venue Crowd Optimizer",
+  "description": "Real-time AI crowd flow optimization for large venues. Predicts congestion and routes attendees dynamically to reduce wait times and improve experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
